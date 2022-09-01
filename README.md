@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=zer420&color=green)
 
 <!--
 **zer420/zer420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
