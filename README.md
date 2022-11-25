@@ -6,6 +6,8 @@
 <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ht&langs_count=5&layout=compact&theme=dark"/>
 </p>
 
+![Snake animation](/../output/github-contribution-grid-snake.svg)
+
 ## Some of my favorite tools!
 <p align="left">
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
