@@ -34,4 +34,4 @@
 ##
 Thanks for passing by! <img height="23" align="right" src="https://komarev.com/ghpvc/?username=lucas-ht&color=blue"/>
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:86c2f6,33:b08ef8,66:e199f3,100:f9dab7&reversal=true&height=100&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&color=100:86c2f6,66:b08ef8,33:e199f3,0:f9dab7&height=100&section=footer)
