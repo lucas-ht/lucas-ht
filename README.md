@@ -2,8 +2,8 @@
 
 ## My GitHub history!
 <p align="left">
-<img height="146" src="https://github-readme-stats.vercel.app/api?username=lucas-ht&show_icons=true&theme=dark&hide=contribs,prs"/>
-<img height="146" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ht&langs_count=5&layout=compact&theme=dark"/>
+<img height="142" src="https://github-readme-stats.vercel.app/api?username=lucas-ht&show_icons=true&theme=dark&hide=contribs,prs"/>
+<img height="142" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ht&langs_count=5&layout=compact&theme=dark"/>
 </p>
 
 ![Snake animation](/../output/github-contribution-grid-snake.svg)
