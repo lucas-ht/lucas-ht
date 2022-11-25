@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey%20there!&height=100&section=header)
+![](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hey%20there!&height=100&section=header)
 
 ## My GitHub history!
 <p align="left">
@@ -34,4 +34,4 @@
 ##
 Thanks for passing by! <img height="23" align="right" src="https://komarev.com/ghpvc/?username=lucas-ht&color=blue"/>
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
