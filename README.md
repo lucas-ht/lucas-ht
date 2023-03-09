@@ -1,37 +1,42 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=0:86c2f6,33:b08ef8,66:e199f3,100:f9dab7&text=Hey%20there!&fontColor=ffffff&height=100&section=header)
+### Hey there! 👋
 
-## My GitHub history!
-<p align="left">
-<img height="144" src="https://github-readme-stats.vercel.app/api?username=lucas-ht&show_icons=true&theme=apprentice&hide=contribs,prs"/>
-<img height="144" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ht&langs_count=5&layout=compact&theme=apprentice"/>
+---
+
+### My GitHub history!
+<p align="center">
+  <picture><img height="144" src="https://github-readme-stats.vercel.app/api?username=lucas-ht&show_icons=true&theme=apprentice&hide=contribs,prs"/></picture>
 </p>
 
-![](/../snake/snake.svg)
-
-## Some of my favorite tools!
-<p align="left">
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-&nbsp;&nbsp;&nbsp;
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-&nbsp;&nbsp;&nbsp;
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-&nbsp;&nbsp;&nbsp;
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-&nbsp;&nbsp;&nbsp;
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
-&nbsp;&nbsp;&nbsp;
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-&nbsp;&nbsp;&nbsp;
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-&nbsp;&nbsp;&nbsp;
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-&nbsp;&nbsp;&nbsp;
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-&nbsp;&nbsp;&nbsp;
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+<p align="center">
+  <picture><img height="144" src="/../snake/snake.svg"/></picture>
 </p>
 
-##
-Thanks for passing by! <img height="23" align="right" src="https://komarev.com/ghpvc/?username=lucas-ht&color=blue"/>
+---
 
-![](https://capsule-render.vercel.app/api?type=waving&color=100:86c2f6,66:b08ef8,33:e199f3,0:f9dab7&height=100&section=footer)
+### Some of my favorite tools!
+<p align="center">
+  <picture><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/></picture>
+</p>
+
+---
+
+###
+Thanks for passing by! <picture><img height="23" align="right" src="https://komarev.com/ghpvc/?username=lucas-ht&color=blue"/></picture>
