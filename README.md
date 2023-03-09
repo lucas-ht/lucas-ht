@@ -23,8 +23,6 @@
   &nbsp;&nbsp;&nbsp;
   <picture><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></picture>
   &nbsp;&nbsp;&nbsp;
-  <picture><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/></picture>
-  &nbsp;&nbsp;&nbsp;
   <picture><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></picture>
   &nbsp;&nbsp;&nbsp;
   <picture><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/></picture>
@@ -34,9 +32,6 @@
   <picture><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></picture>
   &nbsp;&nbsp;&nbsp;
   <picture><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/></picture>
-  
-  
-  
 </p>
 
 ---
