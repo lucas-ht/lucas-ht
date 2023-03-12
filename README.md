@@ -1,6 +1,4 @@
-### Hey there! 👋
-
----
+# Hey there! 👋
 
 ### My GitHub history!
 <p align="center">
