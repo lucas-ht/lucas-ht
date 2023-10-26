@@ -4,6 +4,8 @@
 <p align="center">
   <picture><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/></picture>
   &nbsp;&nbsp;&nbsp;
+  <picture><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/></picture>
+  &nbsp;&nbsp;&nbsp;
   <picture><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></picture>
   &nbsp;&nbsp;&nbsp;
   <picture><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/></picture>
@@ -13,8 +15,6 @@
   <picture><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></picture>
   &nbsp;&nbsp;&nbsp;
   <picture><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"/></picture>
-  &nbsp;&nbsp;&nbsp;
-  <picture><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></picture>
   &nbsp;&nbsp;&nbsp;
   <picture><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></picture>
   &nbsp;&nbsp;&nbsp;
